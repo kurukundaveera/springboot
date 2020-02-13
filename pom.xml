@@ -78,7 +78,7 @@
 	<distributionManagement>
   <snapshotRepository>
     <id>nexus</id>
-    <url>http://3.95.39.246:8081/nexus/content/repositories/ING/</url>
+    <url>http://204.236.212.206:8081/nexus/content/repositories/nexus/</url>
   </snapshotRepository>
 </distributionManagement>
 
